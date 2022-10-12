@@ -17,6 +17,7 @@ Since beer is one of the most consumed drinks between Ironhackers 🍻 , our mis
 $ cd lab-react-ironbeers
 $ npm install
 $ npm start
+
 ```
 
 ## Submission
